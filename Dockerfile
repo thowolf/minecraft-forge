@@ -1,4 +1,4 @@
-FROM webhippie/minecraft-vanilla:1.8
+FROM twolf/minecraft-vanilla:1.8
 MAINTAINER Thomas Boerger <thomas@webhippie.de>
 
 ENV MINECRAFT_VERSION 1.8
